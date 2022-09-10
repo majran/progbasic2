@@ -1,1 +1,1 @@
-print ('Hello Marcin')
+print ('Welcome everybody')
