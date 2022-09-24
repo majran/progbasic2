@@ -1,5 +1,5 @@
 import unittest
-import seti.seti_converter as seti
+import seti_converter as seti
 
 binary_decimal = (
     {"decimal": 100, "binary": [1, 1, 0, 0, 1, 0, 0]},
